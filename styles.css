@@ -1,1 +1,17 @@
 /* Write your CSS here! */
+.margin {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color:green ;
+}
+
+p {
+    color: rgb(73, 138, 73);
+}
